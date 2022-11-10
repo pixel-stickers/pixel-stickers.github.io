@@ -1,0 +1,25 @@
+body {
+    background-color: #FFE6E6
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 140px;
+    text-align: center;
+    color: #FFA300;
+}
+
+h2 {
+    font-family: 'VT323', monospace;
+    font-size: 100px;
+    text-align: center;
+    color: #7E2553;
+}
+
+.bottom {
+    font-family: 'VT323', monospace;
+    font-size: 26px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
